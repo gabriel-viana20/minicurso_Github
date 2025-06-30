@@ -1,2 +1,3 @@
 Gabriel Aparecido de Castro Viana 
 EESD 2025 Técnico em Informática
+minicurso Git e Github
